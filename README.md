@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou o Lucas Maicon 👋
 
-<!--
-**lukasmaicon/lukasmaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasmaicon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![lukasmaicon GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasmaicon&show_icons=true&theme=dracula)
+
+## Tecnologias que eu uso no meu dia 
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whitee"
+ style="display: inline_block"/>
+<img align="center" alt="Css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+ style="display: inline_block"/>
+<img align="center" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div><br/>
+
+Estudante de Analise e Desenvolvimento de Sistema, Front-End e quem sabe um dia Back-End.
+
+"Apaixonado por Tecnologia🙏"
+
+## Contato: lukasmaicon1994gmail.com
