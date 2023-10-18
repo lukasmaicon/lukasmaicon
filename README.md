@@ -27,4 +27,6 @@ Rede social :
 ____
 
 #### Estudante de Programação, Front-End e quem sabe um dia Back-End.
-### 👉 Contato: lukasmaicon1994@gmail.com
+
+### Sinta-se livre para entrar em Contato: lukasmaicon1994@gmail.com
+
