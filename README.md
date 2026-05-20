@@ -2,10 +2,8 @@
 
 🚀 *Apenas um desenvolvedor júnior com 10% de conhecimento, 90% de Google e 100% de fé no compilador.*
 
-
-
 <div>
-  <img align="right"     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1aThlNzFvMW96ZWd3b2Nibngwc3YwNWRvMWQ2MDAwbW1hODVuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn  /giphy.gif" width="35%" alt="Animação Programando"/>
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1aThlNzFvMW96ZWd3b2Nibngwc3YwNWRvMWQ2MDAwbW1hODVuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35%" alt="Animação Programando" />
   
   <ul>
     <li>🌍 Minas Gerais, Brasil</li>
