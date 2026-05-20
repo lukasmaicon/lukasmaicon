@@ -5,11 +5,11 @@
 
 
 <div>
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1aThlNzFvMW96ZWd3b2Nibngwc3YwNWRvMWQ2MDAwbW1hODVuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35%" alt="Animação Programando" />
+  <img align="right"     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1aThlNzFvMW96ZWd3b2Nibngwc3YwNWRvMWQ2MDAwbW1hODVuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn  /giphy.gif" width="35%" alt="Animação Programando"/>
   
   <ul>
     <li>🌍 Minas Gerais, Brasil</li>
-    <li>🖥️ <strong>Explore meu trabalho:</strong> Manutenção ⚠️</li>
+    <li>🖥️ <strong>Portfólio:</strong> Manutenção ⚠️</li>
     <li>📧 <strong>Contato:</strong> <a href="mailto:lukasmaicon1994@gmail.com">lukasmaicon1994@gmail.com</a></li>
     <li>🎓 <strong>Formado em Análise e Desenvolvimento de Sistemas</strong> (ADS)</li>
     <li>🤖 Atualmente cursando <strong>MBA em Ciência de Dados e Inteligência Artificial</strong></li>
@@ -30,8 +30,6 @@
   </picture>
 </div>
 
-
-
 ## 🌐 Vamos nos Conectar:
 
 <div align="left">
@@ -39,8 +37,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-
 
 ## 💻 Habilidades Técnicas:
 
@@ -63,10 +59,8 @@
 <br>
 <br>
 
-
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhpeGwzMG56anJycWlzY2ozOHZ3eWo1M2xmZTM0OGdmdjN6azRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif"
-    width="50%"  alt="Animação Final" />
+  <img    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhpeGwzMG56anJycWlzY2ozOHZ3eWo1M2xmZTM0OGdmdjN6azRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif" width="50%"  alt="Animação Final" />
 </div>
 
 <br/>
