@@ -7,7 +7,7 @@
   
   <ul>
     <li>🌍 Minas Gerais, Brasil</li>
-    <li>🖥️ <strong>Portfólio:</strong> Manutenção ⚠️</li>
+    <li>🖥️ <strong>Portfólio:</strong> https://lukasmaicon.vercel.app/ </li>
     <li>📧 <strong>Contato:</strong> <a href="mailto:lukasmaicon1994@gmail.com">lukasmaicon1994@gmail.com</a></li>
     <li>🎓 <strong>Formado em Análise e Desenvolvimento de Sistemas</strong> (ADS)</li>
     <li>🤖 Atualmente cursando <strong>MBA em Ciência de Dados e Inteligência Artificial</strong></li>
