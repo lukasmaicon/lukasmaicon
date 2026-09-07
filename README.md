@@ -6,14 +6,13 @@
   <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1aThlNzFvMW96ZWd3b2Nibngwc3YwNWRvMWQ2MDAwbW1hODVuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35%" alt="Animação Programando" />
   
   <ul>
-    <li>🌍 Minas Gerais, Brasil</li>
-    <li>🖥️ <strong>Portfólio:</strong> https://lukasmaicon.vercel.app/ </li>
-    <li>📧 <strong>Contato:</strong> <a href="mailto:lukasmaicon1994@gmail.com">lukasmaicon1994@gmail.com</a></li>
-    <li>🎓 <strong>Formado em Análise e Desenvolvimento de Sistemas</strong> (ADS)</li>
-    <li>🤖 Atualmente cursando <strong>MBA em Ciência de Dados e Inteligência Artificial</strong></li>
-    <li>🧠 Engenharia de Prompts e integração de modelos em softwares</li>
-    <li>⚙️ <strong>Git e GitHub</strong> para controle de versão e fluxo de trabalho</li>
-    <li>🌐 Desenvolvimento de aplicações web</li>
+    <li> Minas Gerais, Brasil</li>
+    <li> <strong>Portfólio:</strong> https://lukasmaicon.vercel.app/ </li>
+    <li> <strong>Formado em Análise e Desenvolvimento de Sistemas</strong> (ADS)</li>
+    <li> Atualmente cursando <strong>MBA em Ciência de Dados e Inteligência Artificial</strong></li>
+    <li> Engenharia de Prompts e integração de modelos em softwares</li>
+    <li> <strong>Git e GitHub</strong> para controle de versão e fluxo de trabalho</li>
+    <li> Desenvolvimento de aplicações web</li>
   </ul>
 </div>
 <br clear="right" />
